@@ -4,7 +4,7 @@ let xBtn = document.querySelector(".bx-x");
 let headerNav = document.querySelector(".headerNav");
 let logoHeader = document.querySelector(".logoHeader");
 let showTopHeader = true;
-// Search input //////////////////////////////////////////////////////
+// Search input 
 let searchIcon = document.querySelector(".bx-search");
 searchIcon.addEventListener("click", () => {
   let inputField = document.querySelector(".rightNavInput");
