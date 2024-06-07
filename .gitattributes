@@ -4,7 +4,7 @@
 *.ts linguist-language=TypeScript
 *.tsx linguist-language=TypeScript
 *.scss linguist-language=Sass
-*.css linguist-language=CSS
+
 
 path/to/large/file linguist-vendored
 docs/* linguist-documentation
